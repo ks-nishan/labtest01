@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091430912145",
+    "project_id": "labtestone-310f4",
+    "storage_bucket": "labtestone-310f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091430912145:android:5649584edee580830daf30",
+        "android_client_info": {
+          "package_name": "com.example.labtest_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091430912145-hu02ko2qa81ca9ajmi8o1ah27vh4bbtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0lwWR_iLUqLT1QRblnndqg4cvXrTLUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091430912145-hu02ko2qa81ca9ajmi8o1ah27vh4bbtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
